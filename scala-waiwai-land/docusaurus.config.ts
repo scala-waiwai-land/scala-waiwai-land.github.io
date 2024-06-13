@@ -18,6 +18,7 @@ const config: Config = {
   organizationName: 'scala-waiwai-land', // Usually your GitHub org/user name.
   projectName: 'scala-waiwai-land.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
