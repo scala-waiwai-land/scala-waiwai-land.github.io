@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscala_waiwai_land=self.webpackChunkscala_waiwai_land||[]).push([[647],{2416:(a,e,s)=>{s.r(e),s.d(e,{default:()=>d});s(758);var r=s(3526),c=s(3896),l=s(2702),n=s(1977),u=s(3086),i=s(6070);function d(a){return(0,i.jsx)(c.e3,{className:(0,r.A)(l.G.wrapper.docsPages),children:(0,i.jsx)(u.A,{children:(0,n.v)(a.route.routes)})})}}}]);

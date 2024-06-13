@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscala_waiwai_land=self.webpackChunkscala_waiwai_land||[]).push([[235],{8552:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
